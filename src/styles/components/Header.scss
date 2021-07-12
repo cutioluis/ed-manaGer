@@ -1,0 +1,66 @@
+.container-header {
+    text-align: center
+}
+
+.container-ed {
+    margin: 30px 0;
+}
+
+.imgBanner-ed {
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+}
+
+.container-ed .title-ed {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+}
+
+.container-ed .pagraph-ed {
+    margin: 0;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #716D6D;
+}
+
+.ed-buttons .btn {
+    width: 130px;
+    height: 50px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    border-radius: 5px;
+} 
+
+.ed-buttons .btn:hover {
+    transition: 200ms;
+}
+
+.ed-buttons .btn-signin {
+    border: none;
+    background: #FF2A67;
+    color: white;
+    margin: 10px 
+}
+
+.ed-buttons .btn-signin:hover {
+    border: 2px solid #FF2A67;
+    background: none;
+    color: #FF2A67;
+}
+
+.ed-buttons .btn-login:hover {
+    border: none;
+    background: #FF2A67;
+    color: white;
+}
+
+.ed-buttons .btn-login {
+    border: 2px solid #FF2A67;
+    background: none;
+    color: #FF2A67;
+    margin: 10px 
+}
